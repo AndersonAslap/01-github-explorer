@@ -5,7 +5,8 @@
 <hr>
 <br>
 
-<h3>Sobre o Git Explorer</h3>
+> Sobre o Git Explorer
+
 <p>
 O Git Explorer é um projeto no qual trás uma facilidade ao usuário
 realizar a vizualização de seus repositórios, o usuário apenas informa seu username
@@ -13,7 +14,9 @@ e a plataforma encarrega de fazer a comunicação com a API do github e trazer o
 </p>
 
 <br>
-<h3>Tecnologias Ultilizadas</h3>
+
+> Tecnologias Ultilizadas
+
 <p>
 <ul>
   <li>React</li>
